@@ -8,6 +8,6 @@ I came to this as a practitioner. I practiced corporate and M&A law at White & C
 
 **Talden** · [Product](https://www.taldenai.com/product) · [Workflows](https://www.taldenai.com/workflows) · [Trust](https://www.taldenai.com/trust) · [Pricing](https://www.taldenai.com/pricing) · [Start a free trial](https://demotalden.com/app/register)
 
-**Connect** · [X](https://x.com/USC7rojan) · [Contact](https://www.taldenai.com/contact)
+**Connect** · [LinkedIn](https://www.linkedin.com/in/billydentino/) · [X](https://x.com/USC7rojan) · [Contact](https://www.taldenai.com/contact)
 
 _Talden is software, not a law firm._
