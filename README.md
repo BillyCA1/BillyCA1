@@ -1,16 +1,13 @@
-## Hi there 👋
+# Billy Dentino
 
-<!--
-**BillyCA1/BillyCA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CEO & Co-founder, [Talden](https://taldenai.com) — AI for transactional and regulatory lawyers.**
 
-Here are some ideas to get you started:
+Talden helps lawyers review agreements, research issues and prepare the work behind their next decision — with their own documents, their own instructions and their own judgment at the center. It is built for commercial contract review, regulatory research and analysis, and AI and vendor diligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I came to this as a practitioner. I practiced corporate and M&A law at White & Case, led global M&A work at eBay, and clerked on the U.S. Court of Appeals for the Ninth Circuit; I hold a tax LL.M. from NYU and a law degree from USC. I built Talden around the support I wanted in my own transactional and regulatory practice.
+
+**Talden** · [Product](https://www.taldenai.com/product) · [Workflows](https://www.taldenai.com/workflows) · [Trust](https://www.taldenai.com/trust) · [Pricing](https://www.taldenai.com/pricing) · [Start a free trial](https://demotalden.com/app/register)
+
+**Connect** · [X](https://x.com/USC7rojan) · [Contact](https://www.taldenai.com/contact)
+
+_Talden is software, not a law firm._
