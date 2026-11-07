@@ -1,6 +1,6 @@
 # Billy Dentino
 
-**CEO & Co-founder, [Talden](https://taldenai.com) — AI for transactional and regulatory lawyers.**
+**Founder & CEO, [Talden](https://taldenai.com) — AI for transactional and regulatory lawyers.**
 
 Talden helps lawyers review agreements, research issues and prepare the work behind their next decision — with their own documents, their own instructions and their own judgment at the center. It is built for commercial contract review, regulatory research and analysis, and AI and vendor diligence.
 
